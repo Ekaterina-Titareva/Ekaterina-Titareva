@@ -53,7 +53,7 @@
 ---
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Titareva&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Titareva&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Titareva&layout=compact)
 <br>
 
-[![visitcount](https://visitcount.itsvg.in/api?id=kateriiiiiinka&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)vv
+[![visitcount](https://visitcount.itsvg.in/api?id=kateriiiiiinka&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
