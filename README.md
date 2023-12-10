@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ekaterina-titareva)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kateriiiiiinka)
 
-[![visitcount](https://visitcount.itsvg.in/api?id=kateriiiiiinka&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### Languages and Tools:
 
@@ -54,6 +53,7 @@
 ---
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olyamosienko&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Titareva&layout=compact)
 <br>
----
+
+[![visitcount](https://visitcount.itsvg.in/api?id=kateriiiiiinka&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)vv
