@@ -4,7 +4,7 @@
 
 #### 🏔️ [A travel website](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
 
-#### ⚖️ [A website fot lawyers](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
+#### ⚖️ [A website for lawyers](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
 
 ---
 
