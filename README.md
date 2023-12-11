@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Junior+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Junior+Front-End+Developer)](https://git.io/typing-svg)
 
 ### That's what i can do:
 
