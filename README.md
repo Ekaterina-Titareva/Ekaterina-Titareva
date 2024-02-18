@@ -6,6 +6,8 @@
 
 #### ⚖️ [A website for lawyers](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
 
+#### 🍼 [A website for KID shop](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
+
 ---
 
 ### 📫 How to reach me:
