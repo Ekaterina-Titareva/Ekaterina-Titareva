@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Junior+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;Hello+everyone!)](https://git.io/typing-svg)
 
-### That's what i can do:
+### That's what I can do:
 
-#### 🏔️ [A travel website](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
+#### 🍼 [A website for KID shop](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
 #### ⚖️ [A website for lawyers](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
 
-#### 🍼 [A website for KID shop](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
+#### 🏔️ [A travel website](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
 
 ---
 
@@ -22,11 +22,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  -->
-
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
