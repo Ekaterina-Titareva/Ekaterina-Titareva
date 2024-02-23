@@ -36,11 +36,12 @@
 
 [![codewars](https://www.codewars.com/users/Ekaterina-Titareva/badges/large)](https://www.codewars.com/users/Ekaterina-Titareva)
 
-   </div>
-   <img src="https://komarev.com/ghpvc/?username=Ekaterina-Titareva&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Titareva&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Titareva&layout=compact)
+
+
+</div>
+   <img src="https://komarev.com/ghpvc/?username=Ekaterina-Titareva&style=flat-square&color=blue" alt=""/>
+</div>
 
