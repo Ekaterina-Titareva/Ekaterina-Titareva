@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Hello+everyone!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-### That's what I can do:
+### My Pet Projects:
 
 #### 🍼 [A website for KID shop](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
