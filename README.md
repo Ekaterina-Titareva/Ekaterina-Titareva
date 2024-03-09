@@ -1,12 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Hello+everyone!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### My Pet Projects:
+#### 💃🏻 [A website for Women's Clothing store (HTML5, CSS3, JS(ES6), React, JSX, SCSS, API, JSON, Vite, GIT)](https://github.com/Ekaterina-Titareva/Amili_look_shop)<br>
 
-#### 🍼 [A website for KID shop](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
+#### 🔠 [A website for learning foreign words (HTML5, CSS3, JS(ES6), React, JSX, SCSS, API, JSON, Create-react-app, GIT)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
 
-#### ⚖️ [A website for lawyers](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
+#### 🍼 [A website for KID shop (HTML5, CSS3, JS(ES6), SCSS, API, JSON, GIT)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
-#### 🏔️ [A travel website](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
+#### ⚖️ [A website for lawyers (HTML5, CSS3, JS(ES6), SCSS)](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
+
+#### 🏔️ [A travel website (HTML5, CSS3, SCSS, Pixel Perfect, GIT)](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
 
 ---
 
@@ -22,7 +25,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
