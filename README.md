@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Hello+everyone!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### My Pet Projects:
-#### 💃🏻 [A website for Women's Clothing store (HTML5, CSS3, JS(ES6), React, JSX, SCSS, API, JSON, Vite, GIT)](https://github.com/Ekaterina-Titareva/Amili_look_shop)<br>
+#### 💃🏻 [A website for Women's Clothing store (HTML5, CSS3, JS(ES6), React, JSX, SCSS, API, JSON, Next JS, GIT)](https://github.com/Ekaterina-Titareva/amili_lookshop)<br>
 
 #### 🔠 [A website for learning foreign words (HTML5, CSS3, JS(ES6), React, JSX, SCSS, API, JSON, Create-react-app, GIT)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
 
