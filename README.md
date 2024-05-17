@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Hello+everyone!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### My Pet Projects:
-#### 💃🏻 [A website for Women's Clothing store (HTML5, CSS3, JS(ES6), React, SCSS, Vite, GIT)](https://github.com/Ekaterina-Titareva/Amili_look_shop)<br>
+#### 💃🏻 [A website for Women's Clothing store (JS, React, Vite)](https://github.com/Ekaterina-Titareva/Amili_look_shop)<br>
 
-#### 🔠 [A website for learning foreign words (HTML5, CSS3, JS(ES6), React, CSS, API, JSON, Create-react-app, GIT)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
+#### 🔠 [A website for learning foreign words (JS, React, API, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
 
-#### 🍼 [A website for KID shop (HTML5, CSS3, JS(ES6), SCSS, API, JSON, GIT)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
+#### 🍼 [A website for KID shop (JS)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
-#### ⚖️ [A website for lawyers (HTML5, CSS3, JS(ES6), SCSS)](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
+#### ⚖️ [A website for lawyers (HTML5, JS, SCSS)](https://github.com/Ekaterina-Titareva/Center-for-expertise-and-education)<br>
 
-#### 🏔️ [A travel website (HTML5, CSS3, SCSS, Pixel Perfect, GIT)](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
+#### 🏔️ [A travel website (HTML5, CSS3, SCSS, Pixel Perfect)](https://github.com/Ekaterina-Titareva/FirstCollectiveProject)<br>
 
 ---
 
