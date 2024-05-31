@@ -3,7 +3,7 @@
 ### My Pet Projects:
 
 #### 🔠 [A website for learning foreign words (JS, React, MobX, API, Tailwind, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
-#### 💃🏻 [A website for Women's Clothing store (JS, React, Vite)]([https://github.com/Ekaterina-Titareva/Amili_look_shop](https://amili-shop.ru/))<br>
+#### 💃🏻 [A website for Women's Clothing store (JS, React, Vite)](https://amili-shop.ru/)<br>
 #### 🍼 [A website for KID shop (JS)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
 ---
