@@ -2,8 +2,9 @@
 
 ### My Pet Projects:
 
-#### 🔠 [A website for learning english words (JS, React, MobX, API, Tailwind, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
+#### 🔠 [A website for learning english words (JS, React, MobX, API, Tailwind CSS, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
 #### 💃🏻 [A website for a women's clothing store (JS, React, Vite)](https://amili-shop.ru/)<br>
+#### 🐕 [A website with cute dods (JS, React, Redux, API, Tailwind CSS, Vite)](https://ekaterina-titareva.github.io/cards/)<br>
 #### 🍼 [A website for KID shop (JS)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
 ---
@@ -22,7 +23,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
 
 ---
 
