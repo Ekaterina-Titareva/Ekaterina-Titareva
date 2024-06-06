@@ -4,7 +4,7 @@
 
 #### 🔠 [A website for learning english words (JS, React, MobX, API, Tailwind CSS, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
 #### 💃🏻 [A website for a women's clothing store (JS, React, Vite)](https://amili-shop.ru/)<br>
-#### 🐕 [A website with cute dods (JS, React, Redux, API, Tailwind CSS, Vite)](https://ekaterina-titareva.github.io/cards/)<br>
+#### 🐕 [A website with cute dods (JS, React, Redux, API, Tailwind CSS, Vite)](https://github.com/Ekaterina-Titareva/cards)<br>
 #### 🍼 [A website for KID shop (JS)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
 ---
