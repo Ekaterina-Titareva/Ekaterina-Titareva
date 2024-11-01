@@ -2,8 +2,9 @@
 
 ### Мои проекты:
 
-#### 🔠 [Сайт для изучения английских слов (JS, React, MobX, API, Tailwind CSS, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
+#### 📝 [Сайт для составления списка дел [to-do list]( (TS, React, Redux, CSS, MUI, LocalStorage, Cookie, Vite)](https://github.com/Ekaterina-Titareva/to-do_list)<br>
 #### 💃🏻 [Сайт для магазина женской одежды (JS, React, Vite)](https://amili-shop.ru/)<br>
+#### 🔠 [Сайт для изучения английских слов (JS, React, MobX, API, Tailwind CSS, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
 #### 🐕 [Сайт для отображения милых собачек (JS, React, Redux, API, Tailwind CSS, Vite)](https://github.com/Ekaterina-Titareva/cards)<br>
 #### 🍼 [Сайт для магазина детской одежды (JS)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
@@ -16,6 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/rtk_query-1572B6?style=for-the-badge&logo=&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
