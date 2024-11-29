@@ -3,9 +3,8 @@
 ### Мои проекты:
 
 #### 📝 [Сайт для составления списка дел [to-do list]( (TS, React, Redux, CSS, MUI, LocalStorage, Cookie, Vite)](https://github.com/Ekaterina-Titareva/to-do_list)<br>
-#### 💃🏻 [Сайт для магазина женской одежды (JS, React, Vite)](https://amili-shop.ru/)<br>
 #### 🔠 [Сайт для изучения английских слов (JS, React, MobX, API, Tailwind CSS, Create-react-app)](https://github.com/Ekaterina-Titareva/LexiCa)<br>
-#### 🐕 [Сайт для отображения милых собачек (JS, React, Redux, API, Tailwind CSS, Vite)](https://github.com/Ekaterina-Titareva/cards)<br>
+#### 💃🏻 [Сайт для магазина женской одежды (JS, React, Vite)](https://amili-shop.ru/)<br>
 #### 🍼 [Сайт для магазина детской одежды (JS)](https://github.com/Ekaterina-Titareva/KID_Shop)<br>
 
 ---
