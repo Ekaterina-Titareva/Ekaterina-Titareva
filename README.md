@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=Hello+everyone!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-### Не теряйте, я сейчас на [GitLab](http://gitlab.revampit.ru/ekaterina.titareva)
+### Не теряйте, я сейчас на [GitLab](https://gitlab.bars.group/e.titareva)
 
 ### Стэк:
 
